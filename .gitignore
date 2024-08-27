@@ -1,0 +1,10 @@
+# SBT
+target/
+project/target/
+project/project/
+
+# IntelliJ IDEA
+.idea/
+
+# BSP
+.bsp/
